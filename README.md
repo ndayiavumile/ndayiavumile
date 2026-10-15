@@ -10,7 +10,7 @@ CS student with a dual focus on **cybersecurity** and **software engineering** �
 - 🔐 Aspiring Cybersecurity Engineer — focused on secure software, vulnerability analysis, and defensive tools
 - 💻 Also love building real-world apps: mobile, web, and full-stack
 - 🌍 Based in South Africa
-- 🌱 Currently working through the Future CS internship programme
+
 
 ---
 
